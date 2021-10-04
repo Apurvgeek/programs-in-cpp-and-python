@@ -31,5 +31,4 @@ int main()
         cout<<"Sorry, element not found in the array provided."<<endl;
     else
         cout<<"Element found! On index : "<<result<<endl;
-    return 0;
-}
+    return 0;}
